@@ -1,4 +1,4 @@
-## Olá, eu sou o João Lucas,
+## Olá, eu sou o João Lucas
 
 <div align="center">
   <a href="https://github.com/JoaoLCom">
